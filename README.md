@@ -8,7 +8,7 @@ As the public cloud continues to gain momentum, the gap broadens between operati
 - Benefits of standardized toolchain for managing infrastructure
 
 ### Overview
-This repo contains the _slide deck_ and code used at this [ONUG 2023 session.](https://onug.net/events/onug-training-featuring-alkira-using-modern-practices-and-tools-to-operate-networking-in-the-cloud/).
+This repo contains the _slide deck_ and code used at this [ONUG 2023 session.](https://onug.net/events/onug-training-featuring-alkira-using-modern-practices-and-tools-to-operate-networking-in-the-cloud/)
 
 ### Provisioning Infrastructure with Terraform
 ```hcl
