@@ -23,12 +23,12 @@ terraform destroy
 ```
 
 ### Provisioning Infrastructure with Python Script
-```python
+```shell
 python3 create_vpc.py
 ```
 
 ### Destroying Infrastructure with Python Script
-```python
+```shell
 python3 delete_vpc.py
 ```
 
